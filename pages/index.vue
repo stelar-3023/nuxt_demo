@@ -1,5 +1,7 @@
 <template>
-  <h1>Hello Vue!</h1>
+  <NuxtLink to="/fun">
+  Go to fun page
+  </NuxtLink>
 </template>
 
 <script>
